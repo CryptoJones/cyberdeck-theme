@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="drawio" version="26.0.0">
+  <diagram name="Cyberdeck-Starter">
+    <mxGraphModel dx="1400" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1400" math="0" shadow="0" background="#07090f">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <mxCell id="title" value="CYBERDECK — draw.io starter&#xa;&lt;font style=&quot;font-size:15px;color:#7f8ea3&quot;&gt;copy the primitives below. delete this page&#39;s legend when you&#39;re done.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;fontFamily=Menlo;fontSize=28;fontColor=#27d4ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="1100" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="rules" value="NON-NEGOTIABLE&#xa;&lt;font style=&quot;font-size:13px;color:#8fa3bf&quot;&gt;1. The canvas is ALWAYS dark. This file sets&#xa;&#160;&#160;&#160;&#160;mxGraphModel background=&quot;#07090f&quot;. Never clear it,&#xa;&#160;&#160;&#160;&#160;never set it to none — &quot;none&quot; renders WHITE.&#xa;&#xa;2. Every labelled edge needs labelBackgroundColor=#07090f.&#xa;&#160;&#160;&#160;&#160;draw.io defaults edge labels to a WHITE box.&#xa;&#xa;3. Edges must be light. Default black vanishes here.&#xa;&#xa;4. Colour never carries meaning alone — every coloured&#xa;&#160;&#160;&#160;&#160;group also gets a text label or a number.&#xa;&#xa;5. Font is Menlo, and big. 15px floor on body text.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0a0d15;strokeColor=#ff4f4f;strokeWidth=2;fontColor=#ff4f4f;fontFamily=Menlo;fontSize=15;fontStyle=1;align=left;verticalAlign=top;spacingLeft=16;spacingTop=12" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="520" height="330" as="geometry" />
+        </mxCell>
+
+        <mxCell id="palhdr" value="PALETTE" style="text;html=1;align=left;fontFamily=Menlo;fontSize=17;fontColor=#27d4ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="#07090f&#xa;canvas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#07090f;strokeColor=#3a4658;fontColor=#d7e0ee;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="640" y="200" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="s2" value="#0a0d15&#xa;group fill" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0a0d15;strokeColor=#3a4658;fontColor=#d7e0ee;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="800" y="200" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="s3" value="#0c1018&#xa;node fill" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#3a4658;fontColor=#d7e0ee;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="960" y="200" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="s4" value="#11151f&#xa;spine fill" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#11151f;strokeColor=#3a4658;fontColor=#d7e0ee;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="1120" y="200" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="s5" value="#e6edf7&#xa;text" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#e6edf7;fontColor=#e6edf7;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="1280" y="200" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="s6" value="#8fa3bf&#xa;edge / dim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#8fa3bf;fontColor=#8fa3bf;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="1440" y="200" width="150" height="70" as="geometry" /></mxCell>
+
+        <mxCell id="a1" value="#27d4ff&#xa;cyan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#27d4ff;strokeWidth=2;fontColor=#27d4ff;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="640" y="290" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="a2" value="#55ff99&#xa;green" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#55ff99;strokeWidth=2;fontColor=#55ff99;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="800" y="290" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="a3" value="#ffb000&#xa;amber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#ffb000;strokeWidth=2;fontColor=#ffb000;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="960" y="290" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="a4" value="#c792ea&#xa;violet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#c792ea;strokeWidth=2;fontColor=#c792ea;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="1120" y="290" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="a5" value="#ff6b9d&#xa;pink" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#ff6b9d;strokeWidth=2;fontColor=#ff6b9d;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="1280" y="290" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="a6" value="#ff4f4f&#xa;red / alert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#ff4f4f;strokeWidth=2;fontColor=#ff4f4f;fontFamily=Menlo;fontSize=12" vertex="1" parent="1"><mxGeometry x="1440" y="290" width="150" height="70" as="geometry" /></mxCell>
+        <mxCell id="palnote" value="cyan / green / amber / violet / pink read apart for a red-green colourblind viewer. Reserve red for alerts only." style="text;html=1;align=left;fontFamily=Menlo;fontSize=12;fontColor=#7f8ea3" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="1000" height="24" as="geometry" />
+        </mxCell>
+
+        <mxCell id="prhdr" value="PRIMITIVES — copy these" style="text;html=1;align=left;fontFamily=Menlo;fontSize=17;fontColor=#27d4ff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="540" width="400" height="30" as="geometry" />
+        </mxCell>
+
+        <mxCell id="p1" value="1 &#160;SPINE NODE&#xa;&lt;font style=&quot;font-size:13px;color:#8fa3bf&quot;&gt;main flow step&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#11151f;strokeColor=#27d4ff;strokeWidth=2;fontColor=#e6edf7;fontFamily=Menlo;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="600" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="2 &#160;NEXT STEP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#11151f;strokeColor=#27d4ff;strokeWidth=2;fontColor=#e6edf7;fontFamily=Menlo;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pd" value="DECISION?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#11151f;strokeColor=#ffb000;strokeWidth=3;fontColor=#e6edf7;fontFamily=Menlo;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="920" width="340" height="130" as="geometry" />
+        </mxCell>
+
+        <mxCell id="pg" value="GROUP CONTAINER &#160;&#160;swimlane, titled" style="swimlane;startSize=40;html=1;fillColor=#0a0d15;strokeColor=#55ff99;strokeWidth=2;fontColor=#55ff99;fontFamily=Menlo;fontSize=16;fontStyle=1;align=left;spacingLeft=14;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="600" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pgc1" value="child" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#55ff99;fontColor=#e6edf7;fontFamily=Menlo;fontSize=15" vertex="1" parent="pg"><mxGeometry x="30" y="70" width="170" height="80" as="geometry" /></mxCell>
+        <mxCell id="pgc2" value="child" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#55ff99;fontColor=#e6edf7;fontFamily=Menlo;fontSize=15" vertex="1" parent="pg"><mxGeometry x="215" y="70" width="170" height="80" as="geometry" /></mxCell>
+        <mxCell id="pgc3" value="child" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c1018;strokeColor=#55ff99;fontColor=#e6edf7;fontFamily=Menlo;fontSize=15" vertex="1" parent="pg"><mxGeometry x="400" y="70" width="170" height="80" as="geometry" /></mxCell>
+
+        <mxCell id="pnote" value="NOTE / ASIDE&#xa;&lt;font style=&quot;font-size:13px;color:#7f8ea3&quot;&gt;dashed grey box for commentary that&#xa;is not part of the flow&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0a0d15;strokeColor=#3a4658;dashed=1;fontColor=#8fa3bf;fontFamily=Menlo;fontSize=14;fontStyle=1;align=left;verticalAlign=top;spacingLeft=14;spacingTop=10" vertex="1" parent="1">
+          <mxGeometry x="720" y="920" width="380" height="130" as="geometry" />
+        </mxCell>
+
+        <mxCell id="pe1" value="forward" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#8fa3bf;strokeWidth=2;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontColor=#8fa3bf;fontFamily=Menlo;fontSize=13;labelBackgroundColor=#07090f" edge="1" parent="1" source="p1" target="p2"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="pe2" value="branch" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ffb000;strokeWidth=2;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontColor=#ffb000;fontFamily=Menlo;fontSize=13;labelBackgroundColor=#07090f" edge="1" parent="1" source="p2" target="pd"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="pe3" value="feedback — dashed, in the branch hue" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#c792ea;strokeWidth=2;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontColor=#c792ea;fontFamily=Menlo;fontSize=13;labelBackgroundColor=#07090f" edge="1" parent="1" source="pd" target="pnote"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="pe4" value="into a group" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#55ff99;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontColor=#55ff99;fontFamily=Menlo;fontSize=13;labelBackgroundColor=#07090f" edge="1" parent="1" source="p1" target="pg"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+        <mxCell id="foot" value="Proudly Made in Nebraska. Go Big Red! 🌽 https://xkcd.com/2347/" style="text;html=1;align=left;fontFamily=Menlo;fontSize=13;fontColor=#5a6678;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="60" y="1110" width="700" height="24" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

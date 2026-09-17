@@ -58,6 +58,30 @@ folder and served over HTTP.
 It works just as well for plain documents — drop the audio element and use
 the tokens, header, and row layout as-is.
 
+## Diagrams (draw.io)
+
+`cyberdeck.drawio` is a starter file — open it, copy the primitives, delete the
+legend. It ships the palette as swatches plus ready-made spine nodes, a titled
+swimlane container, a decision diamond, a note box, and correctly-styled edges.
+
+Three things draw.io gets wrong on a dark canvas, all pre-solved in the starter:
+
+- **The page background must be set explicitly.** `<mxGraphModel background="#07090f">`.
+  Leaving it unset — or setting it to `none` — renders **white**.
+- **Edge labels default to a white background.** Every labelled edge needs
+  `labelBackgroundColor=#07090f`, or you get white boxes floating on the arrows.
+- **Default edges are black** and vanish. Use `#8fa3bf`, or the branch's own hue.
+
+Colour never carries meaning on its own here — give every coloured group a text
+label or a number so the diagram still reads without hue.
+
+Export with the desktop CLI:
+
+```sh
+drawio -x -f png --width 2000 -o diagram.png diagram.drawio   # preview
+drawio -x -f pdf -e -o diagram.pdf diagram.drawio             # -e keeps it editable
+```
+
 ## Origin
 
 Born on the cue sheets of a Neuromancer audiobook attribution project,
